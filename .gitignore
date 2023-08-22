@@ -1,0 +1,6 @@
+**build/
+*.csv
+*.idea
+*.json
+catch.hpp
+*.DS_Store
